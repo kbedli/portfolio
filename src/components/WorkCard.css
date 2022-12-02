@@ -1,0 +1,80 @@
+.project-container {
+  width: 100%;
+  padding: 2rem 1rem;
+  display: flex;
+  flex-direction: column;
+}
+.project-card {
+  background: #1a1919;
+  width: 100%;
+  margin-bottom: 1rem;
+}
+
+.project-card img {
+  aspect-ratio: 1/1;
+  width: 100%;
+}
+
+.project-title {
+  color: #fff;
+  padding: 1rem 0;
+}
+
+.pro-details p {
+  padding-bottom: 1rem;
+  font-size: 1.1rem;
+  text-align: justify;
+}
+
+.pro-btns {
+  display: flex;
+  justify-content: space-between;
+  padding: 0.5rem 0;
+}
+
+.pro-btns .btn {
+  padding: 0.5rem 1rem;
+}
+
+.techContainer {
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: 1rem;
+}
+
+.technologies {
+  padding: 0.5rem 1rem;
+  color: black;
+  background: #fff;
+  margin-right: 0.75rem;
+  border-radius: 2rem;
+  font-size: 1rem;
+  opacity: 0.9;
+}
+
+@media screen and (min-width: 740px) {
+  .project-container {
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 4rem 1rem 0;
+  }
+  .project-card {
+    width: 50%;
+    padding: 1.6rem;
+  }
+  .project-card img {
+    object-fit: contain;
+  }
+}
+@media screen and (min-width: 1024px) {
+  .project-card {
+    width: 45%;
+  }
+}
+
+@media screen and (min-width: 1200px) {
+  .project-card {
+    width: 30%;
+  }
+}
