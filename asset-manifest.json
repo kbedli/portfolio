@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.ea91596f.css",
-    "main.js": "/portfolio/static/js/main.a1c66ff7.js",
-    "static/media/photo.jpg": "/portfolio/static/media/photo.f5c6d430f287e8da31fc.jpg",
-    "static/media/pizzeria.png": "/portfolio/static/media/pizzeria.77cf85e976bd6e36a1c7.png",
-    "static/media/costcalculator.png": "/portfolio/static/media/costcalculator.16019abae9aa79a38519.png",
-    "static/media/table.png": "/portfolio/static/media/table.bcff8117d3bce606e3aa.png",
-    "static/media/card.png": "/portfolio/static/media/card.4d69594f5a46190e2fa0.png",
-    "static/media/converter.png": "/portfolio/static/media/converter.855ab99e43f8ef9f8a36.png",
-    "static/media/hangman.png": "/portfolio/static/media/hangman.7220490aef955a1824a7.png",
-    "index.html": "/portfolio/index.html",
-    "main.ea91596f.css.map": "/portfolio/static/css/main.ea91596f.css.map",
-    "main.a1c66ff7.js.map": "/portfolio/static/js/main.a1c66ff7.js.map"
+    "main.css": "/static/css/main.ea91596f.css",
+    "main.js": "/static/js/main.e976c0ee.js",
+    "static/media/photo.jpg": "/static/media/photo.f5c6d430f287e8da31fc.jpg",
+    "static/media/pizzeria.png": "/static/media/pizzeria.77cf85e976bd6e36a1c7.png",
+    "static/media/costcalculator.png": "/static/media/costcalculator.16019abae9aa79a38519.png",
+    "static/media/table.png": "/static/media/table.bcff8117d3bce606e3aa.png",
+    "static/media/card.png": "/static/media/card.4d69594f5a46190e2fa0.png",
+    "static/media/converter.png": "/static/media/converter.855ab99e43f8ef9f8a36.png",
+    "static/media/hangman.png": "/static/media/hangman.7220490aef955a1824a7.png",
+    "index.html": "/index.html",
+    "main.ea91596f.css.map": "/static/css/main.ea91596f.css.map",
+    "main.e976c0ee.js.map": "/static/js/main.e976c0ee.js.map"
   },
   "entrypoints": [
     "static/css/main.ea91596f.css",
-    "static/js/main.a1c66ff7.js"
+    "static/js/main.e976c0ee.js"
   ]
 }
