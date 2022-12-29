@@ -26,12 +26,16 @@ export default function WorkCard({
           })}
         </div>
         <div className="pro-btns">
-          <a href={view} className="btn">
-            View
-          </a>
-          <a href={source} className="btn">
-            Source
-          </a>
+          <div className="first">
+            <a href={view} className="btn">
+              View
+            </a>
+          </div>
+          <div className="secnd">
+            <a href={source} className="btn ">
+              Source
+            </a>
+          </div>
         </div>
       </div>
     </div>
